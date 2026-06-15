@@ -33,11 +33,12 @@ A Smart Home Automation System developed using ESP32 that automatically controls
 
 ### Circuit Diagram
 
-Upload your `circuit.png` here.
+![Circuit Diagram](circuit.png)
 
 ### OLED Output
 
-Upload your `oled_output.png` here.
+![OLED Output](oled_output.png)
+
 
 ## Future Enhancements
 
