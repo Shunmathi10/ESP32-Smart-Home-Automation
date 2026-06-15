@@ -39,6 +39,9 @@ A Smart Home Automation System developed using ESP32 that automatically controls
 
 ![OLED Output](oled_output.png)
 
+## Wokwi Simulation
+[
+[Open Simulation](https://wokwi.com/projects/466811860713056257)]
 
 ## Future Enhancements
 
